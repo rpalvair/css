@@ -32,3 +32,13 @@
 	border-bottom: 5px solid transparent;
 }
 
+/* circle */
+.circle {
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    line-height:200px;
+    text-align:center;   
+    margin-left:auto;
+    margin-right:auto;
+}
